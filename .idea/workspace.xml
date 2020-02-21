@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c259cb1-8cc6-472d-a67d-c1132666d8be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../.localized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CI lab/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CI lab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../CI lab/lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/Student.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/out/production/Student/com/company/Class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/out/production/Student/com/company/Lab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/out/production/Student/com/company/Run.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/out/production/Student/com/company/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/out/production/Student/com/company/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/src/com/company/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/src/com/company/Lab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/src/com/company/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/src/com/company/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/Student/src/com/company/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/ap lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/out/production/ap lab/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/out/production/ap lab/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/out/production/ap lab/Voting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/ap lab/src/Voting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/calculator/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/calculator/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/calculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/calculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/calculator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/out/production/untitled1/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/out/production/untitled1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/out/production/untitled1/Paint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/out/production/untitled1/Polygon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/out/production/untitled1/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/out/production/untitled1/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/out/production/untitled1/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/src/Paint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/src/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/lab5/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/.idea/artifacts/note_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/note.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/note.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/out/artifacts/note_jar/note.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/out/production/note/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/out/production/note/ceit/aut/ac/ir/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/out/production/note/ceit/aut/ac/ir/gui/CFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/out/production/note/ceit/aut/ac/ir/gui/CMainPanel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/out/production/note/ceit/aut/ac/ir/gui/CMainPanel$MyCellRenderer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/out/production/note/ceit/aut/ac/ir/gui/CMainPanel$MyMouseAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/out/production/note/ceit/aut/ac/ir/gui/CMainPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/out/production/note/ceit/aut/ac/ir/gui/CRow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/out/production/note/ceit/aut/ac/ir/utils/FileUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/out/production/note/ceit/aut/ac/ir/utils/Note.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/src/ceit/aut/ac/ir/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/src/ceit/aut/ac/ir/gui/CFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/src/ceit/aut/ac/ir/gui/CMainPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/src/ceit/aut/ac/ir/gui/CRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/src/ceit/aut/ac/ir/utils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/AP-lab/note/src/ceit/aut/ac/ir/utils/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw1/9431702_nazanin_akhtarian.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw1/AP-HW1_3679f0bc8f9536a8bf8df4849be6bf5f.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw2/9431702_nazanin_akhtarian.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw2/AP-HW2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw3/9431702-nazanin-akhtarian.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw3/AP-HW3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw4/9431702-nazanin-akhtarian.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw4/AP-HW4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/9431702_nazanin_akhtarian.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/AP-HW5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/AP-HW5/AP-HW5-Q7.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/AP-HW5/HW5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/AP-HW5/HW5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/AP-HW5/HW5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/AP-HW5/HW5/HW5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/AP-HW5/HW5/out/production/HW5/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/AP-HW5/HW5/out/production/HW5/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/AP-HW5/HW5/out/production/HW5/PersonQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/AP-HW5/HW5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/AP-HW5/HW5/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/AP-HW5/HW5/src/PersonQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../AP/HWs/hw5/AP-HW5/HW5/src/SimplePersonQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignment2/9431702_ARM/q3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../assignment2/9431702_ARM/q3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/about.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/dlManager.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/extend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/file name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/folder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/out/production/dlManager/Gui$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/out/production/dlManager/Gui$ActHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/out/production/dlManager/Gui$ItemsHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/out/production/dlManager/Gui$MouseHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/out/production/dlManager/Gui.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/out/production/dlManager/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/pics/1.New Download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/pics/2.Pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/pics/3.Resume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/pics/4.Cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/pics/5.Remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/pics/6.Settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/src/Gui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AP/dlManager/url.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/regression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="581">
+              <caret line="70" column="128" selection-start-line="70" selection-start-column="128" selection-end-line="70" selection-end-column="128" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/regression.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="64" />
+    <option name="y" value="23" />
+    <option name="width" value="1368" />
+    <option name="height" value="825" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="regression" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="regression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.regression" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c259cb1-8cc6-472d-a67d-c1132666d8be" name="Default Changelist" comment="" />
+      <created>1579162027924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579162027924</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="23" width="1368" height="825" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494432" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996288" weight="0.3287858" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003712" side_tool="true" weight="0.48158255" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4996288" weight="0.48158255" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="70" column="128" selection-start-line="70" selection-start-column="128" selection-end-line="70" selection-end-column="128" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diabetes.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
